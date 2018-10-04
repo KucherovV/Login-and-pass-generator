@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\bin\Debug\Practice2018Boikov.exe.config
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\bin\Debug\Practice2018Boikov.exe
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\bin\Debug\Practice2018Boikov.pdb
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\obj\Debug\Practice2018Boikov.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\obj\Debug\Practice2018Boikov.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\obj\Debug\Practice2018Boikov.exe
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\obj\Debug\Practice2018Boikov.pdb
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\bin\Debug\ExcelDataReader.dll
+C:\Users\User\source\repos\Practice2018Boikov\Practice2018Boikov\bin\Debug\ExcelDataReader.xml
